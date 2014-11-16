@@ -1,0 +1,43 @@
+.content {
+    height: 78%;
+    width: 100%;
+}
+.contentR {
+    width: 88%;
+    overflow: auto;
+}
+.cont {
+    position: relative;
+    width: 30%;
+    height: 90%;
+    left: 5%;
+    border: 1px #333 solid;
+    border-radius: 10px;
+    float: left;
+    background-color: #AAA;
+    top:2%;
+}
+.focus {
+    text-align: center;
+    font-size: 2.5em;
+    float: left;
+    font-weight: bold;
+}
+.in1 {
+    clear: left;
+    text-align: center;
+    position: relative;
+    font-size: 1.6em;
+    top: 10%;
+    float: left;
+    font-weight: bold;
+}
+.in2 {
+    text-align: center;
+    position: relative;
+    font-size: 1em;
+    top: 10%;
+    float: left;
+    font-weight: bold;
+    background-color: #CCC;
+}

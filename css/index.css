@@ -1,0 +1,134 @@
+body {
+    background-color: #DDD;
+    font-family: "Microsoft Jhenghei";
+}
+.head {
+    height: 17%;
+    width: 100%;
+    background: linear-gradient(60deg, #777, #AAA, #EEE);
+    text-align: center;
+    margin: 0;
+}
+.content {
+    height: 78%;
+    width: 100%;
+}
+.footer {
+    position: relative;
+    height: 5%;
+    width: 100%;
+    float: right;
+    background-color: #00AA22;
+}
+.contentL {
+    height: 100%;
+    width: 12%;
+    
+    float: left;
+}
+.contentR {
+    height: 100%;
+    width: 88%;
+    background-color: #DDD;
+    float: right;
+    display: flex;
+}
+iframe {
+    width: 50%;
+    height: 70%;
+    margin: auto;
+}
+.text {
+    text-align: center;
+    width: 40%;
+    height: 50%;
+    background-color: #00AA51;
+    font-family: "Microsoft Jhenghei";
+    margin: auto;
+    border-radius: 10px;
+}
+.text1 {
+    font-size: 2.7em;
+    font-weight: bold;
+    position: relative;
+}
+.text2 {
+    font-size: 1.3em;
+    position: relative;
+    top: 10%;
+}
+.button {
+    position: relative;
+    top: 20%;
+}
+.img0 {
+	position: relative;
+	width: 8%;
+	height: 90%;
+	float: left;
+	left: 2%;
+	border-radius: 15px;
+}
+.img1 {
+    position: relative;
+    width: 50%;
+    height: 90%;
+    float: right;
+    top: 5%;
+    right: 25%;
+}
+.img2 {
+    position: relative;
+    width: 2.5%;
+    height: 90%;
+    float: right;
+    top: 5%;
+    right: 2.5%;
+}
+.fotspan {
+    width: 2.5%;
+    height: 90%;
+    position: relative;
+    left: 1%;
+}
+
+.headtext1 {
+	width: 35%;
+	font-size: 4em;
+	font-family: "Microsoft Jhenghei";
+	font-weight: bold;
+	color: #666;
+	float: left;
+	position: relative;
+	left: 15%;
+}
+.headtext2 {
+	width: 35%;
+	font-size: 2em;
+	font-family: "Microsoft Jhenghei";
+	font-weight: bold;
+	color: #666;
+	float: right;
+	position: relative;
+	right: 1%;
+}
+
+.fix {
+	position: absolute;
+}
+.intro {
+	top:25%;
+	left: 2%;	
+}
+.specifi {
+	top:40%;
+	left: 4%;
+}
+.gallery {
+	top:55%;
+	left: 1%;
+}
+.contact {
+	top:70%;
+	left: 3%;
+}
