@@ -31,6 +31,10 @@ body {
     width: 88%;
     background-color: #DDD;
     float: right;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -webkit-flex;
+    display: flex-box;
     display: flex;
 }
 iframe {
